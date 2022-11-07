@@ -2,8 +2,8 @@
     color: #fdfdfd;
     font-family: pacifico, cursive;
     font-size: 5.0625rem;
-    position: absolute;
     left: 50%;
+    position: absolute;
     top: 25%;
     text-shadow: 0 4px 4px rgba(0, 0,0, 0.75);
     text-align: center;
