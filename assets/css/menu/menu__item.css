@@ -1,0 +1,9 @@
+
+.menu__item{
+    list-style: none;
+    display: inline;
+}
+
+.menu__item:last-child.menu__link{
+    margin-right: 0;
+}
