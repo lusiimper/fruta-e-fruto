@@ -1,3 +1,15 @@
 .receita__conteudo{
     padding: 1rem;
 }
+
+@media screen and (min-width:0)  {
+    .receita__conteudo{
+        
+    }
+}
+
+@media screen and (min-width:768px)  {
+ .receita__conteudo{
+
+ }   
+}
